@@ -2,7 +2,7 @@
 
 
 
-Projeto feito baseado em um teste prático de uma seleção a qual meu tio participou e me envio o enunciado para que eu pudesse fazer também. O projeto consiste em uma api para sistema de votação onde um usuário consegue votar se aprova ou não a pauta colocada em questão.
+Projeto feito baseado em um teste prático de uma seleção. O projeto consiste em uma api para sistema de votação onde um usuário consegue votar se aprova ou não a pauta colocada em questão, podendo votar apenas uma vez.
 
 
 
